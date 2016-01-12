@@ -18,7 +18,7 @@ Third, database is not compatible with older versions, so you'll have to login a
 
 Fourth, in peer_name '#' are substitued to '@'. (Not applied to appending of '#%d' in case of two peers having same name).
 
-### Installation
+### نصب
 
 Clone GitHub Repository
 
